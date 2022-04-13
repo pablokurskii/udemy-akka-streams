@@ -1,2 +1,4 @@
 - use viaMat to control materialization(output) (#6)
-- use async boundary to spleed up stream flow calculation - in parallel (#7)
+- use async boundary to speed up stream flow calculation - in parallel (#7)
+- backpressure protocol in action (faucet / barrel / sink. where faucet is fast/barrel buffer(16 by default) and sink is slow)(#8)
+- throttling - to place a kind of slower pn the faucet to slow down the source speed(#8)
