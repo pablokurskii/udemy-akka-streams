@@ -7,3 +7,4 @@
 - feed source to two sinks - use Broadcast(#9) 
 - 2 sources(1st fast and 2nd slow) feed to 2 sinks with average speed - use Broadcast/Merge/Balance(#9)
 - its possible to join multiple sources/sinks into single SourceShape/SinkShape (#10)
+- create 1 input out of 3 with Zip (#11)
