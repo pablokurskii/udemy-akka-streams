@@ -5,4 +5,5 @@
 - throttling - to place a kind of slower pn the faucet to slow down the source speed(#8)
 - store outputs of two flows in tuples - use GraphDSL/Zip/Broadcast(#9) 
 - feed source to two sinks - use Broadcast(#9) 
-- 2 sources(1st fast and 2nd slow) feed to 2 sinks with average speed - use Broadcast/Merge/Balance(#9) 
+- 2 sources(1st fast and 2nd slow) feed to 2 sinks with average speed - use Broadcast/Merge/Balance(#9)
+- its possible to join multiple sources/sinks into single SourceShape/SinkShape (#10)
