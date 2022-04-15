@@ -15,3 +15,4 @@
 - Integrating with external services - (#16) - SKIPPED
 - Advanced backpressure - (#17) - SKIPPED
 - if Source failed (DB/TCP connect) - use Backoff supervision pattern/ try another Source or at least use .recover (#18)
+- Testing Akka streams - (#19) - SKIPPED
