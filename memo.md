@@ -12,3 +12,5 @@
 - bidirectional flows BidiShape - use in crypt/decrypt, serial/deserial, encoding/decoding (#13)
 - GraphDSL cycles - (#14) - SKIPPED
 - possible to pass Actor into Flow to process values, Actors as sources  (#15)
+- Integrating with external services - (#16) - SKIPPED
+- Advanced backpressure - (#17) - SKIPPED
