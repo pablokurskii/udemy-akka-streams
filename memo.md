@@ -10,3 +10,5 @@
 - create 1 input out of 3 with Zip (#11) - used in Transaction precessing
 - decorate flows and materialize values (#12)
 - bidirectional flows BidiShape - use in crypt/decrypt, serial/deserial, encoding/decoding (#13)
+- GraphDSL cycles - (#14) - SKIPPED
+- 
