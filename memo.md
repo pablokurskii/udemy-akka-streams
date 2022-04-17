@@ -17,4 +17,4 @@
 - if Source failed (DB/TCP connect) - use Backoff supervision pattern/ try another Source or at least use .recover (#18)
 - Testing Akka streams - (#19) - SKIPPED
 - If required to kill stream use KillSwitches; (#20)
-- 
+- DROPPED THE COURSE AT #21
